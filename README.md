@@ -5,17 +5,17 @@ Apollo is an approachable and intuitive programming language designed for learne
 
 #Installing and using apollo
 # 1. download the git repo and cd into the dir
-\```
+```
  cd /apollo/file/dir/
-\```
+```
 # 2. run the shell bia python
-\```
+```
  python shell.py
-\```
+```
 # 3. run the tutorial
-\```
+```
  rwun("tutorial.apollo")
-\```
+```
 
 
 
